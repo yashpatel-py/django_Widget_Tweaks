@@ -1,5 +1,5 @@
-# Django Crispy forms with Bootstrap 5
+# Django Widgets Tweaks
 
-- I have already created video on crispy forms bootstrap-5. Below I have added the link to that video please check
+- I have already created video on Django Widgets Tweaks. Below I have added the link to that video please check
 
-[YouTube Video](https://www.youtube.com/watch?v=P20H63Eq9o4)
+[YouTube Video](https://youtu.be/DFB0yTxS_q0)
